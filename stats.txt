@@ -6,3 +6,5 @@ Session 3
 [read basic concepts and interpretation]
  * Talking to A.
 # lookup confidence intervals on proportion 
+
+
