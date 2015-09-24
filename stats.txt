@@ -1,0 +1,5 @@
+========================
+Session 3
+========================
+ - What is p-value?
+[read examples] https://en.wikipedia.org/wiki/P-value#Five_heads_in_a_row
