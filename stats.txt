@@ -9,3 +9,7 @@ Session 3
 # lookup confidence intervals on proportion 
  
 [Reading "Statistics done wrong"] Stopping rules and regression to the mean
+(finished the book)
+
+- Bayesian factors
+[read whole article] https://en.wikipedia.org/wiki/Bayes_factor
