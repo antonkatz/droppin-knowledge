@@ -6,10 +6,16 @@ Session 3
 [read basic concepts and interpretation]
  
  * Talking to A.
-# lookup confidence intervals on proportion 
+# lookup confidence intervals on proportion
+Statistical power is for determining the chance of finding an effect if present, not for finding the chance of getting a correct result.
  
 [Reading "Statistics done wrong"] Stopping rules and regression to the mean
 (finished the book)
 
 - Bayesian factors
 [read whole article] https://en.wikipedia.org/wiki/Bayes_factor
+
+*****
+Conf. int. on proportion
+Model selection (fifth) blog post B. vs F.
+*****
