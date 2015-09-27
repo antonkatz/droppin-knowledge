@@ -18,4 +18,5 @@ Statistical power is for determining the chance of finding an effect if present,
 *****
 Conf. int. on proportion
 Model selection (fifth) blog post B. vs F.
+[read] http://www.isixsigma.com/tools-templates/sampling-data/how-determine-sample-size-determining-sample-size/
 *****
