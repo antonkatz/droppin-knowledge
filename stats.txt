@@ -29,4 +29,5 @@ Model selection (fifth) blog post B. vs F.
 [read] http://www.jstor.org/stable/2988523?loginSuccess=true&seq=1#page_scan_tab_contents
 [research] Monte carlo
 [research] Baysian multivariate analysis 
+[research] Quantile-quantile plot
 *****
