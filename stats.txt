@@ -19,6 +19,9 @@ Statistical power is for determining the chance of finding an effect if present,
 Bayesian: http://stats.stackexchange.com/questions/24136/sample-size-determination-for-bayesian-logistic-regression#24311
 http://staffblogs.le.ac.uk/bayeswithstata/2015/07/31/bayesian-experimental-design/
 
+- Z-test
+https://www.youtube.com/watch?v=pGv13jvnjKc
+
 *****
 Conf. int. on proportion
 Model selection (fifth) blog post B. vs F.
