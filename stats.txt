@@ -7,7 +7,7 @@ Session 3
  
  * Talking to A.
 # lookup confidence intervals on proportion
-Statistical power is for determining the chance of finding an effect if present, not for finding the chance of getting a correct result.
+Statistical power is for determining the chance of finding an effect if present, not for finding the chance of getting a true result.
  
 [Reading "Statistics done wrong"] Stopping rules and regression to the mean
 (finished the book)
@@ -22,6 +22,9 @@ http://staffblogs.le.ac.uk/bayeswithstata/2015/07/31/bayesian-experimental-desig
 - Z-test
 https://www.youtube.com/watch?v=pGv13jvnjKc
 
+- Dice example (question about data sufficiency)
+http://stats.stackexchange.com/questions/174226/statistical-significance-with-insufficient-data
+
 *****
 Conf. int. on proportion
 Model selection (fifth) blog post B. vs F.
@@ -30,4 +33,5 @@ Model selection (fifth) blog post B. vs F.
 [research] Monte carlo
 [research] Baysian multivariate analysis 
 [research] Quantile-quantile plot
+[read] http://www.cs.berkeley.edu/~stephentu/writeups/dirichlet-conjugate-prior.pdf
 *****
